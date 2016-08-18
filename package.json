@@ -1,6 +1,6 @@
 {
   "name": "countries_esp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "los paises del mundo en español",
   "main": "index.js",
   "scripts": {
