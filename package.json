@@ -1,0 +1,24 @@
+{
+  "name": "countries_esp",
+  "version": "1.0.0",
+  "description": "los paises del mundo en español",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razhu/countries_esp.git"
+  },
+  "keywords": [
+    "countries",
+    "paises",
+    "español"
+  ],
+  "author": "ramiro huayller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razhu/countries_esp/issues"
+  },
+  "homepage": "https://github.com/razhu/countries_esp#readme"
+}
