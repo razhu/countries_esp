@@ -6,7 +6,7 @@ var paises = require('countries_esp').paises;
 console.log(paises.todos)
 //pais por pais
 paises.todos.forEach(function(element) {
- console.log(element.nombre)   
+ console.log(element.name)   
 });
 ```
 
